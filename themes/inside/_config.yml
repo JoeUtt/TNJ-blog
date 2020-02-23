@@ -101,9 +101,9 @@ profile:
 
 # Sidebar navigation links
 menu:
-  🦴Home: /
-  🍞分类文章: /categories/Travel
-  😈About: /talktome
+  🦴 Home: /
+  🍞 分类文章: /categories/Travel
+  😈 About: /talktome
   # Links: /links
   # Github: https://github.com/username
 
