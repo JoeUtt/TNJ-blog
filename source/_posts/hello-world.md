@@ -1,47 +1,16 @@
 ---
-title: Hello World
-date: 2017-06-23 13:24:02
+title: WELCOME TO BEIJING
+date: 2017-05-23 13:24:02
 tags: 
-- java
+- 北京
+- 武汉
+- Tina
+- Joe
 categories: 
-- Coding
-thumbnail: 'http://xlp-test1.oss-cn-hangzhou.aliyuncs.com/uPic/Sge27A.png'
+- Travel
+thumbnail: 'http://xlp-test1.oss-cn-hangzhou.aliyuncs.com/uPic/8npzdZ.png'
 top:
-toc: true
-copyright: true
+toc: false
+copyright: false
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
-
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)

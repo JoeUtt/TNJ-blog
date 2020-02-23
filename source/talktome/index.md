@@ -1,17 +1,35 @@
 ---
-title: 联系我
-date: 2017-05-25 22:09:42
+title: 我是谁
+date: 2017-04-25 22:09:42
 meta: true
 copyright: false
 toc: false
 ---
 
-## 关于我  
+## Who Am I  
 
-一个人的世界，很安静，安静的可以听到自己的呼吸声和心跳声。冷了，给自己加件外套；饿了，给自己买个面包；病了，给自己一份坚强；失败了，给自己一个目标；跌倒了，在伤痛中爬起并给自己一个宽容的微笑是啊，我总是一个人，你从来不曾来过，我也从来不曾出现在你的世界。
+欢迎！我是`大头（Datouger)`，
 
-## 联系我
+工作十一年，从专注 .Net 开发到 DevOps, 入坑[敏捷开发](https://www.atlassian.com/agile)，再到产品与设计。
 
-QQ: 19860606
+肝了三年，终于成为一名小小的全栈产品经理。  
 
-Mail: 19860606@qq.com
+喜欢完美的事物，追求完美的产品，喜欢高效，且有逼格的团队。  
+
+热爱旅行，敢于挑战。最大梦想是和爱的人一起，走完最有逼格的余生。
+
+Welcome! I'm Datouger,
+
+From focusing on .Net development to DevOps, to [agile development](https://www.atlassian.com/agile), and to product design, after my 11-year career.
+
+Right now I am a full-stack HUMBLE product manager.
+
+I love the perfect things and products, and I like to stick with efficient and SHINING team.
+
+Love to travel and dare to challenge. My biggest dream is to spend the rest of my life with you - Tina Yu.
+
+## Find Me
+
+QQ: 19860606  
+
+Mail: datouger@outlook.com  
