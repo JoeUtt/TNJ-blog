@@ -91,8 +91,8 @@ appearance:
 profile:
   # `email` is used for gravatar(https://en.gravatar.com),
   # fallback to `hexo.config.email` if not specified
-  # email: 19860606@qq.com
-  email: wqwhzups9h@privaterelay.appleid.com
+  email: 19860606@qq.com
+  # email: wqwhzups9h@privaterelay.appleid.com
 
   # You can set Avatar URL directly
   # avatar:
@@ -103,7 +103,7 @@ profile:
 menu:
   😈 Home: /
   🐟 分类文章: /categories/Travel
-  🐶 About: /about
+  🐶 About: /talktome
   # Links: /links
   # Github: https://github.com/username
 
