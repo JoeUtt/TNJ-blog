@@ -101,9 +101,9 @@ profile:
 
 # Sidebar navigation links
 menu:
-  🦴Home: /
-  🍞分类文章: /categories/Travel
-  😈About: /about
+  😈 Home: /
+  🐟 分类文章: /categories/Travel
+  🐶 About: /about
   # Links: /links
   # Github: https://github.com/username
 
@@ -135,7 +135,7 @@ sns:
 footer:
   # Set to false to hide.
   # copyright: '&copy; 2019 • <a href="">John Doe</a>'
-  copyright: '&copy; 2020 • ❤️ from <a href="/">Datouger</a>'
+  copyright: '&copy; 2020 • ❤️ <a href="/">Tina Yu</a>'
 
   # Set to false to hide Hexo link.
   powered: false
@@ -288,7 +288,7 @@ copyright:
   # updated: false
 
   # Custom text, override above settings
-  custom: 自由转载，有空通知我一声就好☕️
+  custom: 自由转载🎉
 
 # Comments
 # Built-in support Disqus (https://disqus.com) and LiveRe (https://livere.com),
