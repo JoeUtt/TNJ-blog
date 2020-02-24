@@ -8,7 +8,7 @@ tags:
 - Joe
 categories: 
 - Travel
-thumbnail: 'http://xlp-test1.oss-cn-hangzhou.aliyuncs.com/uPic/8npzdZ.png'
+thumbnail: 'https://xlp-test1.oss-cn-hangzhou.aliyuncs.com/uPic/8npzdZ.png'
 top:
 toc: false
 copyright: false
