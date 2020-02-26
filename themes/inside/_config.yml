@@ -5,17 +5,17 @@
 # Appearance
 appearance:
   # Accent color, default '#2a2b33'
-  accent_color:
+  accent_color: "#5BB6F8"
   # Font color, default '#363636'
-  foreground_color:
+  foreground_color: "#fff"
   # Border color, default '#e0e0e0'
-  border_color:
+  border_color: "#fff"
   # body background, default '#f5f7fa'
-  background:
+  background: "#0D467F"
   # Sidebar background (when opened), default to accent_color
-  sidebar_background:
+  sidebar_background: "#5BB6F8"
   # Card background, default '#fff'
-  card_background:
+  card_background: "#32679C"
 
   # All background settings above support image, e.g.,
   # '//www.toptal.com/designers/subtlepatterns/patterns/confectionary.png #f5f7fa' or
@@ -135,7 +135,7 @@ sns:
 footer:
   # Set to false to hide.
   # copyright: '&copy; 2019 • <a href="">John Doe</a>'
-  copyright: '&copy; 2020 • ❤️ <a href="/">Tina Yu</a>'
+  copyright: '&copy; 2020 • ❤️ TINA 🐟'
 
   # Set to false to hide Hexo link.
   powered: false
