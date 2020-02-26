@@ -4,7 +4,7 @@ date: 2017-05-27 21:20:02
 tags: 
 - iterm2
 categories: 
-- 开发工具
+- 工作那些事
 thumbnail: 'https://xlp-test1.oss-cn-hangzhou.aliyuncs.com/uPic/iterm2-1.png'
 toc: true
 copyright: true

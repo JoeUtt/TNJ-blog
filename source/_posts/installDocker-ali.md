@@ -5,7 +5,7 @@ tags:
 - 阿里云
 - Ubuntu
 categories: 
-- Docker
+- 工作那些事
 thumbnail: 'https://xlp-test1.oss-cn-hangzhou.aliyuncs.com/uPic/Tqp2CV.png'
 toc: true
 copyright: true

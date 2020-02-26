@@ -2,10 +2,9 @@
 title: WELCOME TO BEIJING
 date: 2017-05-23 13:24:02
 tags: 
-- 旅行
 - 北京
 categories: 
-- Travel
+- 旅行
 thumbnail: 'https://xlp-test1.oss-cn-hangzhou.aliyuncs.com/uPic/Z4jq1v.png'
 top:
 toc: false

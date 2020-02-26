@@ -5,7 +5,7 @@ tags:
 - 阿里云
 - Ubuntu
 categories: 
-- NodeJS
+- 工作那些事
 thumbnail: 'https://xlp-test1.oss-cn-hangzhou.aliyuncs.com/uPic/nNuiqk.png'
 toc: false
 copyright: true
