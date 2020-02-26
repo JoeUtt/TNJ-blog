@@ -20,7 +20,7 @@ copyright: false
 
 ![房东图](https://xlp-test1.oss-cn-hangzhou.aliyuncs.com/uPic/UM76aO.PNG)
 
-我自己也拍了几张（光线不好）
+细节（光线不好）
 
 ![房间1](https://xlp-test1.oss-cn-hangzhou.aliyuncs.com/uPic/YBuqEd.jpeg)
 
