@@ -64,9 +64,13 @@ copyright: false
 
 **5月21日**北京最后一天
 
-后海
+后海划船 🐶
 
 ![后海](https://xlp-test1.oss-cn-hangzhou.aliyuncs.com/uPic/2tkikN.jpeg)
+
+中午，又是中午！步行4公里去吃的<b style="color: #F15757">**东来顺**</b>，价格和武汉`袁老四`差不多
+
+![东来顺](https://xlp-test1.oss-cn-hangzhou.aliyuncs.com/uPic/a7J50f.jpeg)
 
 恭王府许了个愿，20年后再去看看？兴许实现了呢🐶
 
