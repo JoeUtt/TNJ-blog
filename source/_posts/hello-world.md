@@ -5,7 +5,7 @@ tags:
 - java
 categories: 
 - Coding
-thumbnail: 'http://xlp-test1.oss-cn-hangzhou.aliyuncs.com/uPic/Sge27A.png'
+thumbnail: 'https://xlp-test1.oss-cn-hangzhou.aliyuncs.com/uPic/Z4jq1v.png'
 top:
 toc: true
 copyright: true
