@@ -27,4 +27,4 @@ copyright: false
 
 ![photo4](https://xlp-test1.oss-cn-hangzhou.aliyuncs.com/uPic/zQ7t1J.png)
 
-总结下：算上定金20万和昨晚的42.7万，抹掉本人一个月生活费取个整: <b style="color: #FF0000">**62万**</b>！
+总结下：定金20万+昨晚的42.7万，抹掉本人一个月生活费取个整: <b style="color: #FF0000">**62万**</b>！
