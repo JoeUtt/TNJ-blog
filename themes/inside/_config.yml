@@ -166,7 +166,7 @@ page:
 
 # Post
 post:
-  per_page: 5
+  per_page: 7
 
   # The following settings are the same as the page
   # toc: false
