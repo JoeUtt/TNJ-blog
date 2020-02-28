@@ -1,7 +1,7 @@
 ---
 title: iterm2 美化
 date: 2017-05-27 21:20:02
-tags: 
+tags:
 - iterm2
 categories: 
 - 工作那些事
