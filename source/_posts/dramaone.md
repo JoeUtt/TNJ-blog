@@ -1,5 +1,5 @@
 ---
-title: Drama原型、动效工具实战（一）
+title: Drama原型、动效工具实战（一）---- Drama对sketch symbols支持不够好
 date: 2019-06-22 22:11:41
 tags: 
 - Drama.app
