@@ -8,7 +8,7 @@ toc: false
 
 ## Who Am I  
 
-欢迎！我是`大头（Datouger)`，
+欢迎！我是`大头（Joe Datouger)`，
 
 工作十一年，从专注 .Net 开发到 DevOps, 入坑[敏捷开发](https://www.atlassian.com/agile)，再到产品与设计。
 

@@ -1,5 +1,5 @@
 ---
-title: 谈谈Sketch布局网格（Layout grid)和如何设置
+title: 浅谈Sketch布局网格（Layout grid)和如何设置
 date: 2019-02-07 05:56:26
 tags: 
 - Sketch
