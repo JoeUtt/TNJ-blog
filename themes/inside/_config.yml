@@ -4,18 +4,18 @@
 
 # Appearance
 appearance:
-  # Accent color, default '#2a2b33'
-  accent_color: "#5BB6F8"
-  # Font color, default '#363636'
+  # Accent color, default '#2a2b33' 高亮
+  accent_color: "#919191"
+  # Font color, default '#363636' 字体
   foreground_color: "#fff"
-  # Border color, default '#e0e0e0'
-  border_color: "#fff"
-  # body background, default '#f5f7fa'
-  background: "#0D467F"
-  # Sidebar background (when opened), default to accent_color
-  sidebar_background: "#5BB6F8"
-  # Card background, default '#fff'
-  card_background: "#32679C"
+  # Border color, default '#e0e0e0' 边框
+  border_color: "#919191"
+  # body background, default '#f5f7fa' 背景
+  background: "#1D1D1D"
+  # Sidebar background (when opened), default to accent_color 手机slidebar
+  sidebar_background: "#1D1D1D"
+  # Card background, default '#fff' 卡片
+  card_background: "#2A2A2A"
 
   # All background settings above support image, e.g.,
   # '//www.toptal.com/designers/subtlepatterns/patterns/confectionary.png #f5f7fa' or
@@ -56,12 +56,12 @@ appearance:
   # Uses an architecture called "base16" (https://github.com/chriskempson/base16),
   # the default theme is a customized Atelier Dune Light theme,
   # please feel free to explore more.
-  highlight: [
-    '#ffffff', '#e0e0e0', '#d0d0d0', '#b0b0b0',
-    '#000000', '#101010', '#151515', '#202020',
-    '#ff0086', '#fd8900', '#aba800', '#00c918',
-    '#1faaaa', '#3777e6', '#ad00a1', '#cc6633'
-  ]
+  # highlight: [
+  #   '#ffffff', '#e0e0e0', '#d0d0d0', '#b0b0b0',
+  #   '#000000', '#101010', '#151515', '#202020',
+  #   '#ff0086', '#fd8900', '#aba800', '#00c918',
+  #   '#1faaaa', '#3777e6', '#ad00a1', '#cc6633'
+  # ]
 
   # Default Light by Chris Kempson (http://chriskempson.com)
   # highlight: [
@@ -80,12 +80,12 @@ appearance:
   # ]
 
   # Tomorrow Night by Chris Kempson (http://chriskempson.com)
-  # highlight: [
-  #   '#1d1f21', '#282a2e', '#373b41', '#969896',
-  #   '#b4b7b4', '#c5c8c6', '#e0e0e0', '#ffffff',
-  #   '#cc6666', '#de935f', '#f0c674', '#b5bd68',
-  #   '#8abeb7', '#81a2be', '#b294bb', '#a3685a'
-  # ]
+  highlight: [
+    '#1d1f21', '#282a2e', '#373b41', '#969896',
+    '#b4b7b4', '#c5c8c6', '#e0e0e0', '#ffffff',
+    '#cc6666', '#de935f', '#f0c674', '#b5bd68',
+    '#8abeb7', '#81a2be', '#b294bb', '#a3685a'
+  ]
 
 # Sidebar profile
 profile:
@@ -103,7 +103,7 @@ profile:
 menu:
   😈 首页/Home: /
   🐟 归档/Archives: /categories/2020年
-  🐶 About Joe: /talktome
+  🐶 关于我/About Joe: /talktome
   # Links: /links
   # Github: https://github.com/username
 
