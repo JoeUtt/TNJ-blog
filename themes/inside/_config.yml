@@ -101,9 +101,9 @@ profile:
 
 # Sidebar navigation links
 menu:
-  😈 Home: /
-  🐟 Category: /categories/工作那些事
-  🐶 About: /talktome
+  😈 首页/Home: /
+  🐟 归档/Archives: /categories/2020年
+  🐶 About Joe: /talktome
   # Links: /links
   # Github: https://github.com/username
 
@@ -135,7 +135,7 @@ sns:
 footer:
   # Set to false to hide.
   # copyright: '&copy; 2019 • <a href="">John Doe</a>'
-  copyright: '&copy; 2020 • ❤️ TINA 🐟'
+  copyright: '&copy; 2020 • Mady with ❤️'
 
   # Set to false to hide Hexo link.
   powered: false
