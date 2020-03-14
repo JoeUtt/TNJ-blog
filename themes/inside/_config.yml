@@ -5,17 +5,17 @@
 # Appearance
 appearance:
   # Accent color, default '#2a2b33' 高亮
-  accent_color: "#919191"
+  accent_color: "#667C89"
   # Font color, default '#363636' 字体
-  foreground_color: "#fff"
+  foreground_color: "#d8d8d8"
   # Border color, default '#e0e0e0' 边框
-  border_color: "#919191"
+  border_color: "#444"
   # body background, default '#f5f7fa' 背景
-  background: "#1D1D1D"
+  background: "#202020"
   # Sidebar background (when opened), default to accent_color 手机slidebar
-  sidebar_background: "#1D1D1D"
+  sidebar_background: "#262626"
   # Card background, default '#fff' 卡片
-  card_background: "#2A2A2A"
+  card_background: "#252525"
 
   # All background settings above support image, e.g.,
   # '//www.toptal.com/designers/subtlepatterns/patterns/confectionary.png #f5f7fa' or
@@ -80,11 +80,30 @@ appearance:
   # ]
 
   # Tomorrow Night by Chris Kempson (http://chriskempson.com)
+  # highlight: [
+  #   '#1d1f21', '#282a2e', '#373b41', '#969896',
+  #   '#b4b7b4', '#c5c8c6', '#e0e0e0', '#ffffff',
+  #   '#cc6666', '#de935f', '#f0c674', '#b5bd68',
+  #   '#8abeb7', '#81a2be', '#b294bb', '#a3685a'
+  # ]
+
   highlight: [
-    '#1d1f21', '#282a2e', '#373b41', '#969896',
-    '#b4b7b4', '#c5c8c6', '#e0e0e0', '#ffffff',
-    '#cc6666', '#de935f', '#f0c674', '#b5bd68',
-    '#8abeb7', '#81a2be', '#b294bb', '#a3685a'
+    '#252525',
+    '#252525',
+    '#939393',
+    '#585858',
+    '#b8b8b8',
+    '#d8d8d8',
+    '#e8e8e8',
+    '#f8f8f8',
+    '#ab4642',
+    '#dc9656',
+    '#f7ca88',
+    '#a1b56c',
+    '#b8b8b8',
+    '#7cafc2',
+    '#ba8baf',
+    '#a16946'
   ]
 
 # Sidebar profile
