@@ -104,3 +104,14 @@ deploy:
   user: joe
   remotePath: /home/joe/hexo/myblog
   privateKey: /Users/joe/.ssh/gcp
+
+# pugin
+soundcloud:
+  height: 166      # プレイヤーの高さ。ビジュアルモードのデフォルト値は450。シンプルモードのデフォルト値は166です。
+  visual: false     # プレイヤーをビジュアルモードにするか否か(デフォルトはtrue)
+  color: '252525'    # 播放器按钮颜色 プレイヤーのボタンスキンの色。デフォルトはff5500(シンプルモードのみ有効なオプション).
+  related: false   # デフォルト値はtrue
+  comments: false  # デフォルト値はtrue
+  user: false      # デフォルト値はtrue
+  reposts: false   # デフォルト値はfalse
+  autoplay: false  # デフォルト値はfalse
