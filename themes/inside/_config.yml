@@ -154,7 +154,7 @@ sns:
 footer:
   # Set to false to hide.
   # copyright: '&copy; 2019 • <a href="">John Doe</a>'
-  copyright: '&copy; 2020 • Mady with ❤️'
+  copyright: '&copy; 2020 • Produced with ❤️'
 
   # Set to false to hide Hexo link.
   powered: false
